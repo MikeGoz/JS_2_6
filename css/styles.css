@@ -1,0 +1,15 @@
+/* Task 2.6 */
+
+@import url('https://fonts.googleapis.com/css?family=VT323');
+
+body {
+  margin: 10vh;
+  text-align: center;
+  font-family: 'VT323', monospace;
+  background-color: #4D9BC2;
+  font-size: 50px;
+}
+div {
+  color: white;
+  padding: 20px;
+}
